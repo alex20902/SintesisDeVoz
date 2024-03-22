@@ -4,6 +4,6 @@ Nombre Del Alumno: Hugo Alexander Vázquez Montejo.
 
 Asesor académico: MTRA. Sara Jeannette Carrillo Ruiz
 
-Asignatura: Robotica.
+Asignatura: Robótica.
 
-Creación de un codigo sencillo para la sintesis de voz.
+Creación de un código sencillo para la síntesis de voz.
