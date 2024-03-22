@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asistente de Voz</title>
+    <style>
+        #botonInicio {
+            font-size: 24px;
+            padding: 20px;
+            background-color: green;
+            color: hwb(0 1% 99% / 0.557);
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+        #botonImagen {
+            width: 350px;
+            height: 350px;
+        }
+    </style>
+</head>
+<body>
+    <img id="botonImagen" src="Chatbot.png" alt="Bot">
+    <button id="botonInicio" onclick="comenzarEscucha()">Iniciar Asistente</button>
+    <div id="output"></div>
+    <script src="script.js"></script>
+</body>
+</html>
+
